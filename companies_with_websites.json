@@ -1,0 +1,1638 @@
+[
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "Académie Alfa Mega",
+        "departments": [
+            "MEC",
+            "GPA"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "Agnico Eagle",
+        "departments": [
+            "CONS",
+            "ELE",
+            "MEC",
+            "GPA",
+            "GOL"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "Agropur Coopérative laitière",
+        "departments": [
+            "ELE",
+            "MEC",
+            "GPA",
+            "GOL",
+            "TI"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "ArcelorMittal exploitation minière",
+        "departments": [
+            "CTN",
+            "ELE",
+            "MEC",
+            "GPA",
+            "GOL",
+            "TI",
+            "Maîtrise"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "AtkinsRéalis Canada inc.",
+        "departments": [
+            "CONS",
+            "MEC",
+            "ELE",
+            "Maîtrise"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "BBA",
+        "departments": [
+            "CONS",
+            "ELE",
+            "MEC",
+            "GPA",
+            "LOG",
+            "TI"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "Beaudoin Canada",
+        "departments": [
+            "CONS",
+            "MEC",
+            "Maîtrise",
+            "Doctorat"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "Bell Textron Canada Ltée",
+        "departments": [
+            "MEC",
+            "GOL",
+            "TI"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "Brasserie Labatt",
+        "departments": [
+            "MEC",
+            "ELE",
+            "GPA",
+            "GOL"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "CBTEC",
+        "departments": [
+            "ELE",
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "Cojalac inc.",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "Colas Quebec",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "Consortium Raymond",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "Construction Carbo inc.",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "Construction Génix inc.",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "EBing Consultant inc.",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "Équation Groupe Conseil",
+        "departments": [
+            "CONS",
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "Équipe Laurence",
+        "departments": [
+            "CONS",
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "EXFO inc",
+        "departments": [
+            "ELE",
+            "MEC",
+            "LOG",
+            "TI",
+            "Maîtrise"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "Glencore",
+        "departments": [
+            "ELE",
+            "MEC",
+            "GPA"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "Gold Fields",
+        "departments": [
+            "CONS",
+            "ELE",
+            "MEC",
+            "GPA",
+            "GOL",
+            "LOG",
+            "TI",
+            "Maîtrise",
+            "Doctorat"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "Groupe GEYSER",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "Guimond Construction",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "HKA Global",
+        "departments": [
+            "CONS",
+            "MEC",
+            "Maîtrise",
+            "Doctorat"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "Intelcom",
+        "departments": [
+            "GOL",
+            "LOG",
+            "TI",
+            "Doctorat"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "Kiewit",
+        "departments": [
+            "CONS",
+            "ELE",
+            "MEC",
+            "GOL",
+            "TI"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "Lafarge Canada inc",
+        "departments": [
+            "ELE",
+            "MEC",
+            "GPA",
+            "Maîtrise"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "MONTONI",
+        "departments": [
+            "CONS",
+            "ELE",
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "MOTEURS ELECTRIQUES LAVAL",
+        "departments": [
+            "ELE",
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "Nortek Air Solutions Québec inc.",
+        "departments": [
+            "MEC",
+            "GPA",
+            "GOL"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "ORTEC ENVIRONNEMENT SERVICES inc.",
+        "departments": [
+            "CONS",
+            "MEC",
+            "GOL",
+            "Maîtrise"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "Parallèle 54 Expert Conseil inc.",
+        "departments": [
+            "CONS",
+            "ELE",
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "QSL",
+        "departments": [
+            "CONS",
+            "MEC",
+            "Maîtrise"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "Siemens Énergie Canada Ltée",
+        "departments": [
+            "MEC",
+            "Maîtrise"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "Solmatech",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "Stantec Experts-conseils Ltée",
+        "departments": [
+            "CONS",
+            "ELE",
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "Systra Canada",
+        "departments": [
+            "CONS",
+            "ELE",
+            "MEC",
+            "Maîtrise",
+            "Doctorat"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "Techsol Marine",
+        "departments": [
+            "ELE",
+            "MEC",
+            "GPA"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "Ventilation GR",
+        "departments": [
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "VINCI Construction",
+        "departments": [
+            "CONS",
+            "ELE",
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Lundi 20 janvier",
+        "employer_name": "Vitreco inc",
+        "departments": [
+            "CONS",
+            "MEC",
+            "Maîtrise"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "9493-0435 Québec inc. (Devmont)",
+        "departments": [
+            "MEC",
+            "MAI"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "A+",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "ABB",
+        "departments": [
+            "ÉLÉ",
+            "MEC",
+            "GOL",
+            "GPA",
+            "LOG",
+            "TI"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "Adf Group inc.",
+        "departments": [
+            "GPA",
+            "GOL",
+            "TI"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "Artelia",
+        "departments": [
+            "CONS",
+            "ELE",
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "Arup",
+        "departments": [
+            "CONS",
+            "ELE",
+            "MEC",
+            "LOG",
+            "MAI",
+            "DOC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "Bastium Construction",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "Blondin Fortin et Associés",
+        "departments": [
+            "CONS",
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "Centre de Recherche Informatique de Montréal (CRIM)",
+        "departments": [
+            "LOG",
+            "MAI",
+            "DOC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "Cimota inc",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "Congebec",
+        "departments": [
+            "MEC",
+            "GOL"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "Démolition et Excavation Démex inc.",
+        "departments": [
+            "CONS",
+            "MEC",
+            "MAI"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "EllisDon Corporation",
+        "departments": [
+            "CONS",
+            "MEC",
+            "GOL"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "Engineered Air",
+        "departments": [
+            "ELE",
+            "MEC",
+            "GPA",
+            "LOG",
+            "TI"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "Environnement routier NRJ, Systèmes urbains et Construction Arcade",
+        "departments": [
+            "CONS",
+            "ELE"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "Eurêka Environnement",
+        "departments": [
+            "CONS",
+            "MAI",
+            "DOC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "Famic Technologies inc.",
+        "departments": [
+            "ELE",
+            "MEC",
+            "GPA",
+            "LOG",
+            "MAI"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "Forage CBF",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "GMR Safety inc.",
+        "departments": [
+            "MEC",
+            "GOL"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "Groupe Aecon Québec Ltée",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "Groupe Geloso",
+        "departments": [
+            "MEC",
+            "GPA",
+            "GOL"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "Groupe Unigesco",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "Introspect Technology",
+        "departments": [
+            "ELE"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "Les Excavations Payette",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "Loiselle inc.",
+        "departments": [
+            "CONS",
+            "MAI"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "Magil construction",
+        "departments": [
+            "CONS",
+            "MAI"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "MDA Space",
+        "departments": [
+            "ELE",
+            "MEC",
+            "GPA",
+            "LOG",
+            "MAI"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "Metaltech-Omega",
+        "departments": [
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "NouvLR",
+        "departments": [
+            "CONS",
+            "ELE",
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "NSW Contrôle",
+        "departments": [
+            "ELE",
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "Nvira",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "Office municipal d'habitation de Lanaudière Sud",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "Orthogone",
+        "departments": [
+            "ELE",
+            "GPA",
+            "LOG",
+            "TI"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "Oslo Construction",
+        "departments": [
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "PACCAR",
+        "departments": [
+            "ELE",
+            "MEC",
+            "CONS",
+            "GPA",
+            "GOL",
+            "LOG",
+            "TI",
+            "MAI"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "Pomerleau",
+        "departments": [
+            "CONS",
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "RefPlus inc.",
+        "departments": [
+            "ELE",
+            "MEC",
+            "GOL"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "Roxboro Excavation",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "Safran Landing Systems",
+        "departments": [
+            "MEC",
+            "GPA",
+            "GOL",
+            "LOG"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "SCV Enercor",
+        "departments": [
+            "CONS",
+            "ELE",
+            "MEC",
+            "TI",
+            "Maîtrise"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "Sika Canada",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "Société québécoise des infrastructures",
+        "departments": [
+            "CONS",
+            "ELE",
+            "LOG",
+            "TI",
+            "MAI"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mardi 21 janvier",
+        "employer_name": "Tetra Tech QI inc.",
+        "departments": [
+            "CONS",
+            "ELE",
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "Ali Excavation",
+        "departments": [
+            "CONS",
+            "GOL"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "ANDRITZ HYDRO CANADA",
+        "departments": [
+            "ELE",
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "Banque Nationale",
+        "departments": [
+            "LOG",
+            "TI"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "Beluga Construction inc.",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "Cascades",
+        "departments": [
+            "ELE",
+            "MEC",
+            "GOL",
+            "LOG",
+            "TI",
+            "Maîtrise"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "Centre de la sécurité des télécommunications (CST)",
+        "departments": [
+            "ELE",
+            "GPA",
+            "LOG",
+            "TI",
+            "Maîtrise",
+            "Doctorat"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "Charex",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "",
+        "departments": [
+            "CONS",
+            "MEC"
+        ]
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "CMC Électronique",
+        "departments": [
+            "ELE",
+            "MEC",
+            "GPA",
+            "GOL",
+            "LOG",
+            "TI",
+            "Maîtrise",
+            "Doctorat"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "Conception Génik inc.",
+        "departments": [
+            "ELE",
+            "MEC",
+            "GPA"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "Contrôles Laurentide Ltée",
+        "departments": [
+            "ELE",
+            "MEC",
+            "GPA"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "CRT Construction",
+        "departments": [
+            "CONS",
+            "MEC",
+            "Maîtrise"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "Derrig + Talbot",
+        "departments": [
+            "CONS",
+            "ELE",
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "EBC",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "Englobe corp.",
+        "departments": [
+            "CONS",
+            "ELE",
+            "MEC",
+            "Maîtrise",
+            "Doctorat"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "Frare Gallant Construction",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "GEC Aviation inc. (GE aérospatial)",
+        "departments": [
+            "ELE",
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "GIRO",
+        "departments": [
+            "LOG",
+            "TI",
+            "Maitrise",
+            "Doctorat"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "GMC Consultants",
+        "departments": [
+            "ELE",
+            "MEC",
+            "GPA"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "Groupe ABS inc.",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "Groupe Duroking",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "Groupe MACH",
+        "departments": [
+            "CONS",
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "GSS inc. (Groupe Solutions Sociales inc.)",
+        "departments": [
+            "GPA",
+            "GOL",
+            "LOG",
+            "TI",
+            "Maîtrise"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "Hitachi Énergie Canada",
+        "departments": [
+            "ELE",
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "JCB Construction Canada",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "Jenaco",
+        "departments": [
+            "CONS",
+            "MEC",
+            "GOL"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "Joliette Hydraulique inc.",
+        "departments": [
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "Kronos Canada inc.",
+        "departments": [
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "L.A Hébert",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "Laurentides Experts-Conseils",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "Les Constructions Reliance du Canada Ltée",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "Letico inc.",
+        "departments": [
+            "ELE",
+            "GPA"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "Lys Air Mecanic inc",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "Ministère des Transports et de la Mobilité Durable",
+        "departments": [
+            "CONS",
+            "ELE",
+            "MEC",
+            "GOL",
+            "TI"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "Solutions Techso",
+        "departments": [
+            "MEC",
+            "LOG",
+            "TI",
+            "Maitrise"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "Stageline Scène Mobile inc.",
+        "departments": [
+            "MEC",
+            "GOL"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "Technologies MindCore",
+        "departments": [
+            "ELE",
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "Thales Canada inc.",
+        "departments": [
+            "ELE",
+            "LOG",
+            "TI"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "Trochaines",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "W.R. Grace Canada",
+        "departments": [
+            "ELE",
+            "MEC",
+            "GPA",
+            "GOL"
+        ],
+        "website": null
+    },
+    {
+        "date": "Mercredi 22 janvier",
+        "employer_name": "WSP Canada inc",
+        "departments": [
+            "CONS",
+            "ELE",
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "AGT Robotique",
+        "departments": [
+            "ELE",
+            "MEC",
+            "GPA",
+            "LOG"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Alstom Canada",
+        "departments": [
+            "ELE",
+            "MEC",
+            "TI"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Automat Solutions inc.",
+        "departments": [
+            "ELE",
+            "GPA"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Béton Provincial",
+        "departments": [
+            "CONS",
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Bombardier",
+        "departments": [
+            "ELE",
+            "MEC",
+            "GPA",
+            "GOL",
+            "LOG",
+            "TI",
+            "Maîtrise",
+            "Doctorat"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "CDPQ",
+        "departments": [
+            "ELE",
+            "MEC",
+            "GOL",
+            "LOG",
+            "TI",
+            "Maîtrise",
+            "Doctorat"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Comact",
+        "departments": [
+            "ELE",
+            "MEC",
+            "GPA",
+            "LOG",
+            "TI"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Construction  Expertise PG",
+        "departments": [
+            "CONS",
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Construction Deric",
+        "departments": [
+            "CONS",
+            "ELE",
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Creaform/Ametek",
+        "departments": [
+            "ELE",
+            "MEC",
+            "LOG",
+            "TI",
+            "Maîtrise",
+            "Doctorat"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "CRH Canada inc. / Demix",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Dassault Systemes",
+        "departments": [
+            "LOG",
+            "TI",
+            "Maîtrise",
+            "Doctorat"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Excavation Villeneuve",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "FDM Group Canada",
+        "departments": [
+            "ELE",
+            "MEC",
+            "GOL",
+            "LOG",
+            "TI",
+            "Maîtrise"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Groupe Honco",
+        "departments": [
+            "CONS",
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Groupe M Potvin / MPotvin Excavation",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Hulix Construction",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Hydro-Québec",
+        "departments": [
+            "ELE",
+            "MEC",
+            "LOG"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "IGF axiom inc.",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Intact Corporation Financière",
+        "departments": [
+            "LOG",
+            "TI"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Kolostat inc.",
+        "departments": [
+            "CONS",
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Kruger",
+        "departments": [
+            "ELE",
+            "MEC",
+            "GPA",
+            "TI"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Le Groupe Gesfor, Poirier, Pinchin inc.",
+        "departments": [
+            "CONS",
+            "Maîtrise"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Les Entreprises RXTX 2002 inc./IPConsul",
+        "departments": [
+            "ELE"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Litostroj Hydro inc.",
+        "departments": [
+            "ELE",
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Modulable",
+        "departments": [
+            "CONS"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Navada",
+        "departments": [
+            "ELE",
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Nortera",
+        "departments": [
+            "GOL"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Pageau Morel et associés",
+        "departments": [
+            "CONS",
+            "ELE",
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Premier Tech Ltée",
+        "departments": [
+            "ELE",
+            "MEC",
+            "GPA",
+            "LOG",
+            "Maîtrise"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Saint-Gobain",
+        "departments": [
+            "ELE",
+            "MEC",
+            "GPA"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Schneider Electric Canada inc.",
+        "departments": [
+            "ELE",
+            "MEC",
+            "GPA",
+            "LOG"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Services Partagés Canada",
+        "departments": [
+            "LOG",
+            "TI"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Société Centris inc.",
+        "departments": [
+            "LOG",
+            "TI",
+            "Maîtrise"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Société ferroviaire et portuaire de Pointe-Noire",
+        "departments": [
+            "CONS",
+            "ELE",
+            "MEC",
+            "GPA",
+            "GOL",
+            "Maîtrise"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Sport Maska inc. (CCM Hockey)",
+        "departments": [
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "TCI+",
+        "departments": [
+            "CONS",
+            "ELE"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Technologies Newtrax inc.",
+        "departments": [
+            "ELE",
+            "LOG",
+            "Maîtrise"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Tisseur inc.",
+        "departments": [
+            "CONS",
+            "MEC"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Tornatech inc.",
+        "departments": [
+            "ELE",
+            "LOG"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Ubisoft Divertissements",
+        "departments": [
+            "LOG",
+            "TI",
+            "Maîtrise",
+            "Doctorat"
+        ],
+        "website": null
+    },
+    {
+        "date": "Jeudi 23 janvier",
+        "employer_name": "Wesdome - Complexe minier Kiena",
+        "departments": [
+            "ELE",
+            "MEC"
+        ],
+        "website": null
+    }
+]

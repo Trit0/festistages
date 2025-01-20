@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", function() {
             .then(data => {
                 const filteredData = data.filter(item => {
                     const dateMatch = selectedDates.length === 0 || selectedDates.includes(item.date);
-                    const programMatch = selectedPrograms.length === 0 || item.departments.some(program => selectedPrograms.includes(program));
+                    const programMatch = selectedPrograms.length === 0 || removeDuplicate(item.departments).some(program => selectedPrograms.includes(program));
                     return dateMatch && programMatch;
                 });
                 displayTable(filteredData);
